@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UiAutomator2</string>
+    <string name="get_tree">获取控件树</string>
+</resources>
